@@ -1,0 +1,23 @@
+{
+  "name": "remove-bom-loader",
+  "version": "1.0.0",
+  "description": "remove bom loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivansky/remove-bom-loader.git"
+  },
+  "keywords": [
+    "bom",
+    "webpack"
+  ],
+  "author": "Ivan Martianov <i@ivansky.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivansky/remove-bom-loader/issues"
+  },
+  "homepage": "https://github.com/ivansky/remove-bom-loader"
+}
